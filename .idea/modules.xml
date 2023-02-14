@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/oop-package/oop-package.iml" filepath="$PROJECT_DIR$/oop-package/oop-package.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-polymorphism/oop-polymorphism.iml" filepath="$PROJECT_DIR$/oop-polymorphism/oop-polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-static/oop-static.iml" filepath="$PROJECT_DIR$/oop-static/oop-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-code/search-code.iml" filepath="$PROJECT_DIR$/search-code/search-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentsystem/studentsystem.iml" filepath="$PROJECT_DIR$/studentsystem/studentsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" filepath="$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" />
     </modules>
