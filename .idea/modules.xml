@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/myarrays/myarrays.iml" filepath="$PROJECT_DIR$/myarrays/myarrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydate/mydate.iml" filepath="$PROJECT_DIR$/mydate/mydate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvessel/myvessel.iml" filepath="$PROJECT_DIR$/myvessel/myvessel.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-abstract/oop-abstract.iml" filepath="$PROJECT_DIR$/oop-abstract/oop-abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-codeblock/oop-codeblock.iml" filepath="$PROJECT_DIR$/oop-codeblock/oop-codeblock.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-extends/oop-extends.iml" filepath="$PROJECT_DIR$/oop-extends/oop-extends.iml" />
