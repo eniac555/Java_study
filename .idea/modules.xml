@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/day11-code/day11-code.iml" filepath="$PROJECT_DIR$/day11-code/day11-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/jigsawgame/jigsawgame.iml" filepath="$PROJECT_DIR$/jigsawgame/jigsawgame.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myarrays/myarrays.iml" filepath="$PROJECT_DIR$/myarrays/myarrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/mydate/mydate.iml" filepath="$PROJECT_DIR$/mydate/mydate.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-abstract/oop-abstract.iml" filepath="$PROJECT_DIR$/oop-abstract/oop-abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-codeblock/oop-codeblock.iml" filepath="$PROJECT_DIR$/oop-codeblock/oop-codeblock.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/oop-polymorphism/oop-polymorphism.iml" filepath="$PROJECT_DIR$/oop-polymorphism/oop-polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-static/oop-static.iml" filepath="$PROJECT_DIR$/oop-static/oop-static.iml" />
       <module fileurl="file://$PROJECT_DIR$/search-code/search-code.iml" filepath="$PROJECT_DIR$/search-code/search-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-code/sort-code.iml" filepath="$PROJECT_DIR$/sort-code/sort-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentsystem/studentsystem.iml" filepath="$PROJECT_DIR$/studentsystem/studentsystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" filepath="$PROJECT_DIR$/twodimensionarr/twodimensionarr.iml" />
     </modules>
