@@ -7,7 +7,7 @@ public class Test1 {
         /*
         测试类中定义一个方法用于饲养动物
         public static void keepPet(ArrayList<???> list)
-        
+
         //遍历集合，调用动物的eat方法
         要求1: 该方法能养所有品种的猫，但是不能养狗
         要求2: 该方法能养所有品种的狗，但是不能养猫
