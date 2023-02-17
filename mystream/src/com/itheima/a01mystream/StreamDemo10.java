@@ -31,7 +31,8 @@ public class StreamDemo10 {
         //收集Set集合当中
         //需求：
         //我要把所有的男性收集起来
-        Set<String> newList2 = list.stream().filter(s -> "男".equals(s.split("-")[1]))
+        Set<String> newList2 = list.stream()
+                .filter(s -> "男".equals(s.split("-")[1]))
                 .collect(Collectors.toSet());
         //System.out.println(newList2);
 

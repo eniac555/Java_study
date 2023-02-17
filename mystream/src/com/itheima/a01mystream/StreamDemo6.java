@@ -2,6 +2,7 @@ package com.itheima.a01mystream;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.function.Predicate;
 
 public class StreamDemo6 {
     public static void main(String[] args) {
@@ -18,7 +19,7 @@ public class StreamDemo6 {
         Collections.addAll(list, "张无忌", "周芷若", "赵敏", "张强", "张三丰", "张翠山", "张良", "王二麻子", "谢广坤");
 
         //filter   过滤  把张开头的留下，其余数据过滤不要
-        /*list.stream().filter(new Predicate<String>() {
+        list.stream().filter(new Predicate<String>() {
             @Override
             public boolean test(String s) {
                 //如果返回值为true，表示当前数据留下
@@ -34,7 +35,7 @@ public class StreamDemo6 {
 
 
         System.out.println("====================================");
-        System.out.println(list);*/
+        System.out.println(list);
 
 
        /* limit               获取前几个元素

@@ -29,6 +29,7 @@ public class StreamDemo9 {
         });*/
 
         //list.stream().forEach(s -> System.out.println(s));
+        //list.stream().forEach(s -> System.out.println(s));
 
 
 
