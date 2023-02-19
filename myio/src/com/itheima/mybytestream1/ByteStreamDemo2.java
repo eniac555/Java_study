@@ -24,9 +24,10 @@ public class ByteStreamDemo2 {
         //2.写出数据
         fos.write(57);
         fos.write(55);
+        //输出9和7，但实际是挨着的97
+
         //3.释放资源
         fos.close();
 
-        while(true){}
     }
 }

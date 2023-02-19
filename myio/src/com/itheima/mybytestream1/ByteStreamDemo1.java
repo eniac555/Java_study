@@ -22,9 +22,11 @@ public class ByteStreamDemo1 {
         //本地文件    File
         FileOutputStream fos = new FileOutputStream("myio\\a.txt");
         //2.写出数据
-        fos.write(97);
+        fos.write(97);//a的编码
         //3.释放资源
         fos.close();
+
+
 
 
 
