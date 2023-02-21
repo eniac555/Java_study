@@ -13,7 +13,7 @@ public class ByteStreamDemo3 {
         FileInputStream fis = new FileInputStream("myio\\a.txt");
         //2.循环读取
         int b;
-        while ((b = fis.read()) != -1) {
+        while ((b = fis.read()) != -1) {//b不写，相当于一次循环指针移动两次
             System.out.println((char) b);
         }
         //3.释放资源
@@ -25,6 +25,7 @@ public class ByteStreamDemo3 {
         * read :表示读取数据，而且是读取一个数据就移动一次指针
         *
         * *//*
+
         FileInputStream fis = new FileInputStream("myio\\a.txt");
         //2.循环读取
         while ((fis.read()) != -1) {
